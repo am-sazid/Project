@@ -1,9 +1,18 @@
-h1{
+h2{
     text-align: center;
     color: aliceblue;
     font-family:'Courier New', Courier, monospace;
-    box-shadow: 5px 8px 5px rgb(10, 29, 25);
+    /* box-shadow: 5px 8px 5px rgb(10, 29, 25); */
+    
 }
+h3{
+    text-align: center;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 5px 5px 5px rgb(10, 29, 25);
+}
+
+
 #Banner{
     width: 100%;
     box-shadow: 10px 8px 20px rgba(108, 213, 254, 0.575);
