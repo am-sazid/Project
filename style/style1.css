@@ -17,3 +17,31 @@ h3{
     width: 100%;
     box-shadow: 10px 8px 20px rgba(108, 213, 254, 0.575);
 }
+aside{
+    
+    margin-left: 78%;
+    margin-top: -8%;
+    color: aliceblue;
+}
+aside  h2{
+    background-color: rgb(29,161,243);
+    width: 220px;
+    text-align: center;
+    margin-left: 13%;
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 7px 5px 20px rgb(16, 223, 178);
+    border-radius: 20px;
+}
+   
+
+
+audio{
+    width: 220px;
+    height: 20px;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center; 
+    margin-top: 20%;
+}
