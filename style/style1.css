@@ -19,15 +19,15 @@ h3{
 }
 aside{
     
-    margin-left: 78%;
-    margin-top: -5%;
+    /* margin-left: 7%; */
+    /* margin-top: -5%; */
     color: aliceblue;
 }
 aside  h2{
     background-color: rgb(29,161,243);
     width: 220px;
     text-align: center;
-    margin-left: 13%;
+    margin-left: 3%;
     font-family:'Courier New', Courier, monospace;
     box-shadow: 7px 5px 20px rgb(16, 223, 178);
     border-radius: 20px;
